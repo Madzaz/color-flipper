@@ -1,0 +1,33 @@
+button {
+  padding: 10px 15px;
+  width: 100px;
+  border-radius: 15px;
+  border: 1px solid black;
+  cursor: pointer;
+  color: #fff;
+}
+
+#greenBtn {
+  background-color: hsl(120, 100%, 25%);
+}
+#greenBtn:hover {
+  background-color: hsl(120, 100%, 30%);
+}
+#redBtn {
+  background-color: hsl(0, 100%, 50%);
+}
+#redBtn:hover {
+  background-color: hsl(0, 100%, 40%);
+}
+#blueBtn {
+  background-color: hsl(240, 100%, 50%);
+}
+#blueBtn:hover {
+  background-color: hsl(240, 100%, 40%);
+}
+#randomBtn {
+  background-color: hsl(0, 0%, 45%);
+}
+#randomBtn:hover {
+  background-color: hsl(0, 0%, 35%);
+}
